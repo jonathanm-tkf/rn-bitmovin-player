@@ -1,17 +1,17 @@
-# react-native-bitmovin-player
+# rn-bitmovin-player
 
 Bitmovin player React Native module
 
 ## Installation
 
 ```sh
-npm install react-native-bitmovin-player
+npm install rn-bitmovin-player
 ```
 
 ## Usage
 
 ```js
-import BitmovinPlayer from "react-native-bitmovin-player";
+import BitmovinPlayer from "rn-bitmovin-player";
 
 // ...
 
