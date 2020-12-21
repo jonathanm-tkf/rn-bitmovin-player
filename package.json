@@ -1,5 +1,5 @@
 {
-  "name": "react-native-bitmovin-player",
+  "name": "rn-bitmovin-player",
   "version": "0.1.0",
   "description": "Bitmovin player React Native module",
   "main": "lib/commonjs/index",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/jonathanm-tkf/react-native-bitmovin-player",
+  "repository": "https://github.com/jonathanm-tkf/rn-bitmovin-player",
   "author": "Jonathan Machado <jonathanm@takeoffmedia.com> (https://github.com/jonathanm-tkf)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonathanm-tkf/react-native-bitmovin-player/issues"
+    "url": "https://github.com/jonathanm-tkf/rn-bitmovin-player/issues"
   },
-  "homepage": "https://github.com/jonathanm-tkf/react-native-bitmovin-player#readme",
+  "homepage": "https://github.com/jonathanm-tkf/rn-bitmovin-player#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
